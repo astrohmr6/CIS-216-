@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to AstroHMR Page!!!
 
 You can use the [editor on GitHub](https://github.com/astrohmr6/hugom.cis-216.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
